@@ -1,2 +1,2 @@
 ## Repositório de Solução de Problemas do Beecrowd
-Algoritmos na Linguagem Python e C++
+Algoritmos na Linguagem Python e Java
